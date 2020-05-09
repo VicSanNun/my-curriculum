@@ -1,0 +1,33 @@
+- name: Numerical JS
+  url: https://github.com/VicSanNun/NumericalJS
+  description: A library of numerical methods written with Javascript.
+  status: in progress
+  tags:
+    - JavaScript
+  icon: github
+
+- name: My .vimrc
+  url: https://github.com/VicSanNun/my-wonderful-vimrc
+  description: My .vimrc file
+  status: finished
+  tags:
+    - Vim
+  icon: github
+
+- name: TCP Chat
+  url: https://github.com/VicSanNun/tcp-chat-node
+  description: A TCP chat with NodeJs
+  status: finished
+  tags:
+    - Javascript
+    - NodeJs
+  icon: github
+
+- name: Prepare Your Enviroment
+  url: https://github.com/VicSanNun/prepare_dev_environment
+  description: Scripts for you to prepare your linux(Ubuntu) enviroment
+  status: finished
+  tags:
+    - Bash
+    - Linux
+  icon: github

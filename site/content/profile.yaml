@@ -1,0 +1,36 @@
+- profile:
+  initials: VN
+  name: Victor Nunes
+  email: victornunes470@gmail.com
+  profession: FullStack Developer
+  image: images/profile.jpeg
+  location: Aracaju, SE
+  relocation: false
+  company: Inventione
+  for_hire: true
+  focus: Learning Gatsby
+  focus_url: https://gatsbyjs.org
+  about: |
+    Web Developer currently working with PHP and Node/Express. In love with NodeJS and its possibilities. Studying Elixir, GoLang and Haskell. In front-end, experience with Angular/AngularJS and React, currently studying Vue. Besides web develop, i'm interested in scientific computing and its applications.
+
+    Experience in REST api development with Javascript (NodeJs and Express/Hapi) and C# (.NET Framework/.NET Core). Experience in MVC pattern, SOLID principles and Tests. Small experience in DDD software model. Knowledge in Postgres, MySql and MongoDB database.
+  skills:
+    - JavaScript / Node
+    - HTML / CSS
+    - PHP
+    - C / C++
+    - REST Api
+    - Embedded Systems
+  tools:
+    - React
+    - Angular
+    - VSCode
+    - Gatsby
+    - Arduino
+    - MySQL
+    - Postgres
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

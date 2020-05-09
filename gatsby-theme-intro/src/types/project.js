@@ -17,13 +17,6 @@ export const query = graphql`
   fragment ProjectFragment on ProjectsYaml {
     description
     icon
-    image {
-      childImageSharp {
-        fluid(maxWidth: 640, quality: 85) {
-          ...GatsbyImageSharpFluid_withWebp
-        }
-      }
-    }
     name
     status
     tags

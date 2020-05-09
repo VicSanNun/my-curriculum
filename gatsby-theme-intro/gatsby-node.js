@@ -18,7 +18,7 @@ exports.onPreBootstrap = ({ reporter }, options) => {
       "projects.yaml",
       "social.yaml",
       "work-history.yaml",
-      "images/profile.jpg",
+      "images/profile.jpeg",
       "images/project.jpg",
     ]
 

@@ -1,9 +1,9 @@
 - profile:
   initials: JD
-  name: John Doe
+  name: Victor Nunes
   email: john.doe@change.me
   profession: Web Developer
-  image: images/profile.jpg
+  image: images/profile.jpeg
   location: New York, USA
   relocation: true
   company: Atomic Studio

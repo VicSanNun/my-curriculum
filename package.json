@@ -10,5 +10,11 @@
   "workspaces": [
     "gatsby-theme-intro",
     "site"
-  ]
+  ],
+  "dependencies": {
+    "yarn": "^1.22.4"
+  },
+  "name": "gatsby-theme-intro",
+  "repository": "https://github.com/wkocjan/gatsby-theme-intro.git",
+  "author": "<victornunes470@gmail.com>"
 }
